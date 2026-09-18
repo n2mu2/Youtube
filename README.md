@@ -21,6 +21,11 @@ YouTube's 2026 monetization rules.
 > Copy the *why*, never the *what*: proven viral format (high-stakes predator drama +
 > curiosity-gap titles + hyper-realistic Veo footage) with original stories.
 
+✅ **All 12 V2 upgrades applied across the kit** (velocity premieres, Shorts→long funnel,
+Retention 2.0, A/B packaging tests, trend-surf calendar, auto-dub, Sunday data ritual,
+buffer batching, engagement engineering). Upgrade logic: `growth_engine_v2.md` ·
+Stay-or-pivot rules: `niche_decision.md`
+
 ## Quick Start
 
 1. Read `wildlife_channel_kit.md` → Section 6 (Prompt Library)

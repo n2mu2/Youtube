@@ -270,7 +270,7 @@ On-screen text: "THE NIGHT SHIFT 🦓"
 Body: S24–S30 condensed. End: "That's why sleeping prey is the HARDEST target. Full film ⬆️"
 On-screen text: "THE MATH 🧮"
 
-*(Each Short: 9:16 crop of your strongest clips, captions always on, related-video link to the film.)*
+*(Each Short: 9:16 crop of your strongest clips, captions always on, related-video link to the film, and the brand tag **"AI visuals · real science"** on-screen or in the caption — in 2026's AI-slop backlash, visible transparency is our competitive moat.)*
 
 ---
 

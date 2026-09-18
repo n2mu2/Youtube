@@ -122,6 +122,13 @@ Rotate these so the channel never feels templated (this is what keeps you moneti
            Close the loop. CTA (1 line, not begging).
 ```
 
+**Retention 2.0 rules (V2 — apply to every script):**
+- **Re-hook every 30–40s** — a question, a visual shift, or a "but". Scripted, not improvised.
+- **Exactly ONE open loop** per film (opened in the hook, closed in the last 10%). Zero = boring; two = confusing.
+- **Alternate shot scale** every scene (wide → macro → medium) to reset attention.
+- **Plant one debate question** mid-film — it becomes the pinned comment and fuels hour-1 comments.
+- **Series numbering** — end on "Rule #N" so playlists binge and sessions continue.
+
 ---
 
 ## 6. THE PROMPT LIBRARY ⭐ (the heart of this kit)
@@ -332,6 +339,7 @@ Wildlife/documentary English content typically monetizes at **~$1.5–4 RPM** bl
    - ❌ Never: same template, same structure, copy-paste prompts, daily spam uploads
 4. **Never copy a video.** Copy the *format*, change the story, species, and angle. The reference video itself says: make your own unique videos.
 5. **One niche. One platform. One year.** The single most repeated advice in the live class. No jumping to Instagram/TikTok until YouTube is winning.
+6. **Win the trust war — 2026's decisive battleground.** Viewers are actively blocking AI animal channels over *deception* (fake rescues, unnatural behaviors, fake "real" footage). Never publish those. Make transparency the brand: **"Every frame is AI — every fact is real"** in the trailer, **"AI visuals · real science"** tag on every Short, disclosure on every upload. Slop channels get buried; the transparent science channel inherits their audience.
 
 ---
 
