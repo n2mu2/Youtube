@@ -8,7 +8,10 @@ YouTube's 2026 monetization rules.
 
 | File | Purpose |
 |------|---------|
-| `wildlife_channel_kit.md` | Full channel kit — strategy, prompt library, production pipeline, SEO, 30-day plan |
+| `wildlife_channel_kit.md` | V1 kit — strategy, prompt library, production pipeline, SEO |
+| `growth_engine_v2.md` | **V2** — method rating (3.5/5), 12 upgrades, trending engine, 90-day execution plan |
+| `film01_launch_package.md` | **Film #1 ready to produce** — 42-scene script + Veo prompts + Shorts + publish checklist |
+| `film01_thumb_A/B/C.png` | A/B/C thumbnail variants for YouTube Test & Compare |
 | `wild_untold_logo.png` | Channel profile picture |
 | `wild_untold_banner.png` | Channel banner |
 | `wild_untold_thumbnail_sample.png` | Thumbnail style reference (feed to Gemini as reference) |
